@@ -45,7 +45,6 @@ git push - u origin master
 ```
 
 6. github Settings에서 pages로 이동하여, Source를 main branch로 바꿔줍니다.
-<p data-ke-size="size16">&nbsp;</p>
 7. publish 되었다는 URL로 접속하여 확인합니다 (시간이 좀 걸리니, 5분정도 기다려주세요)
 <p data-ke-size="size16">&nbsp;</p>
 Template Name: Laura
